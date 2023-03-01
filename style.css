@@ -1,0 +1,289 @@
+body{
+    margin: 0px;
+    
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+.first{
+    position: fixed;
+    background: #222d37;
+    width: 100%;
+    height: 80px;
+}
+.logo{
+    background:#222d37;
+    width: 11%;
+    height: 80px;
+    float: left;
+    
+}
+.home{
+    display: flex;
+    background: #222d37;
+    width: 30%;
+    height: 80px;
+    float: left;
+    
+    
+}
+.home ul,li{
+    list-style-type:none;
+    display: inline;
+    
+}
+.home select{
+    background-color: #222d37;
+    border-radius: 0%;
+    border-color: #222d37;
+    padding-left: 0;
+     color: rgba(242,244,246,.9);
+}
+.home li{
+    padding-left: 10px;
+}
+.home ul{
+    
+    padding-top: 2px;
+    padding-inline-start: 25px;
+    
+}
+.home a{
+    text-decoration: none;
+    font-size: 18;
+    color: rgba(242,244,246,.9);
+    
+}
+.tryforfree{
+    background:#222d37;
+    width: 30%;
+    height: 80px;
+    float: right;
+    display: flex;
+    
+    
+
+}
+#try{
+    background: #0f79af;
+    display: block;
+    margin: 18px;
+    margin-left: 73px;
+    color: #fff;
+    padding: 17px;
+    padding-left: 19px;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+#try:hover{
+    background: #36b0ee;
+
+}
+
+
+.logo img{
+    color: #36b0ee;
+    width: 66%;
+    height: 40px;
+    margin-left: 49px;
+    margin-top: 17px;
+}
+#globe{
+    width: 50px;
+    height: 30px;
+    margin-top: 25px;
+    margin-left: 20px;
+    
+}
+
+#img1{
+background: #c2bebe;
+    width: 26px;
+    height: 25px;
+    margin-top: 26px;
+    
+    
+}
+#img1:hover{
+    background: #fff;
+}
+ #img2{
+    margin: 6px;
+    background: #d3d2d2;
+    width: 22px;
+    height: 24px;
+}
+#img2:hover{
+    background-color: white;
+
+
+} 
+#user{
+    margin-top: 5;
+    background: #222d37;
+    border:none;
+
+
+}
+#EN{
+    background-color: #222d37;
+    border: none;
+    color: #d6d2d2;
+}
+#EN:hover{
+color: #fff;
+}
+#E{
+    background-color: #222d37;
+    border: none;
+    color: #c2bebe;
+}
+/* second */
+.second{
+    background-color: #0f79af;
+    width: 1519px;
+    height: 556px;
+    margin: -16px;
+}
+#img3{
+    
+    width: 1519px;
+    height: 476px;
+    margin-left: -24px;
+    margin-top: 80px;
+}
+
+/* third */
+.third{
+    background-color: #0f79af;
+    width: 1519px;
+    height: 556px;
+    margin: -16px;
+}
+#img4{
+    
+    width: 1519px;
+    height: 556px;
+    margin-left: -24px;
+}
+.fig1{
+    margin-top: -508px;
+    color: #fff;
+    margin-left: 17px;
+}
+.para{
+    font-size: 50px;
+}
+.p1{
+    font-size: 20px;
+    margin-top: -49px;
+}
+#b1{
+    width: 25%;
+    height: 50px;
+    background-color: #0f79af;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    word-spacing: 15px;
+    font-size: 19px;
+}
+#b1:hover{
+    background-color: #36b0ee;
+}
+.fig2{
+    margin-top: -558px;
+    color: #fff;
+    margin-left: 850px;
+}
+.para1{
+    font-size: 45px;
+}
+.p2{
+    font-size: 20px;
+    margin-top: -17px;
+}
+#b2{
+    width: 40%;
+    height: 50px;
+    background-color: #0f79af;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    word-spacing: 9px;
+    font-size: 18px;
+}
+#b2:hover{
+    background-color: #36b0ee;
+}
+.fourth{
+    background-color: #36b0ee;
+    width: 1521px;
+    height: 700px;
+}
+.d1{
+    background-color: #fff;
+    width: 50%;
+    height: 700px;
+    float: left;
+}
+.d2{
+    background-color: #fff;
+    width: 50%;
+    height: 700px;
+    float: left;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 4px;
+}
+.grid-d2{
+   
+  
+}
+.im1{
+    width: 249px;
+}
+
+.para4{
+    font-size: 45px;
+    
+}
+.p3{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: -17px;
+}
+.fifth{
+    background-color: #0f79af;
+    width: 1534px;
+    height: 556px;
+    margin: -16px;
+}
+#img5{
+    
+    width: 1519px;
+    height: 556px;
+    margin-left: -24px;
+}
+.fig3{
+    margin-top: -558px;
+    color: #fff;
+    margin-left: 850px;
+}
+.sixth{
+    background-color: #0f79af;
+    width: 1534px;
+    height: 556px;
+    margin: -16px;
+}
+#img6{
+    
+    width: 1519px;
+    height: 556px;
+    margin-left: -24px;
+}
+.fig4{
+    margin-top: -536px;
+    color: #fff;
+    margin-left: 40;
+}
+
+
